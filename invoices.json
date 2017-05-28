@@ -1,10 +1,33 @@
 {
 	"companyLogo": "http://lea.verou.me/logo.svg",
-	"companyName": "Lea Verou",
+	"companyName": "Biz Developers",
 	"companyAddress": "42 JavaScript Way\n\t\t\tBoston, MA 02114\n\t\t\tUSA",
 	"companyURL": "http://lea.verou.me",
 	"companyEmail": "lea@verou.me",
 	"invoice": [
+		{
+			"id": "3",
+			"date": "2017-05-28",
+			"recipient": {
+				"name": "Paras Javed",
+				"address": "2819 21st Street\nNE Hickory NC 28691"
+			},
+			"currency": "$",
+			"services": [
+				{
+					"description": "Web Development",
+					"amount": "515.34"
+				},
+				{
+					"description": "Logo Design",
+					"amount": "100.00"
+				},
+				{
+					"description": "Computer Maintainence",
+					"amount": "200.00"
+				}
+			]
+		},
 		{
 			"id": "2",
 			"date": "2016-10-06",
